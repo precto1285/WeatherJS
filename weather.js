@@ -1,0 +1,1 @@
+// Create a weather class to fetch the data from the API

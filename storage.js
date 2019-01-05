@@ -1,0 +1,1 @@
+// Saves the Location into Local Storage
